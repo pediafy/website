@@ -1,0 +1,19 @@
+documentation:
+  label: Document
+  permalink: /docs
+  description: Documentation Tags
+
+pediafy:
+  label: Pediafy
+  permalink: /Pediafy
+  description: Pediafy Tags
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+blog:
+  label: Blog
+  permalink: /blog
+  description: Blog Tags
