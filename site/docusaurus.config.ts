@@ -85,8 +85,8 @@ const config: Config = {
     navbar: {
       title: 'Pediafy',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Site Logo',
+        src: 'img/file.svg',
       },
       items: [
         {
